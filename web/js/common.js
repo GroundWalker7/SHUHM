@@ -79,7 +79,7 @@ function setEchart() {
                 }
             },
             markPoint: {
-                symbolSize: 80,
+                symbolSize: 60,
                 data: [
                     { type: 'max', name: '最大值' },
                     { type: 'min', name: '最小值' }
@@ -88,7 +88,7 @@ function setEchart() {
                     normal: {
                         label: {
                             show: true,
-                            fontSize: 25
+                            fontSize: 20
                         },
                         color: "#B22222"
                     }
@@ -174,7 +174,7 @@ function setEchart() {
                 }
             },
             markPoint: {
-                symbolSize: 80,
+                symbolSize: 60,
                 data: [
                     { type: 'max', name: '最大值' },
                     { type: 'min', name: '最小值' }
@@ -183,7 +183,7 @@ function setEchart() {
                     normal: {
                         label: {
                             show: true,
-                            fontSize: 25
+                            fontSize: 20
                         },
                         color: "#B22222"
                     }

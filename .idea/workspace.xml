@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e3a3683-4f8e-4b75-8d93-2df57a9333f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/HealthMonitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/HealthMonitor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/common.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HealthMonitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="186" selection-start-line="186" selection-end-line="186" />
+            <state relative-caret-position="479">
+              <caret line="199" column="25" selection-start-line="199" selection-start-column="25" selection-end-line="199" selection-end-column="25" />
               <folding>
                 <element signature="e#195#209#0" expanded="true" />
               </folding>
@@ -30,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="264">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-49">
+              <caret line="185" column="40" selection-start-line="185" selection-start-column="40" selection-end-line="185" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -79,9 +89,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/try.py" />
-        <option value="$PROJECT_DIR$/HealthMonitor.py" />
         <option value="$PROJECT_DIR$/web/views/index.html" />
         <option value="$PROJECT_DIR$/web/css/common.css" />
+        <option value="$PROJECT_DIR$/HealthMonitor.py" />
+        <option value="$PROJECT_DIR$/web/js/common.js" />
       </list>
     </option>
   </component>
@@ -124,6 +135,12 @@
               <item name="SHUHM" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SHUHM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SHUHM" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SHUHM" type="b2602c69:ProjectViewProjectNode" />
@@ -224,23 +241,23 @@
       <workItem from="1563516792944" duration="305000" />
       <workItem from="1563517601466" duration="762000" />
       <workItem from="1563775022736" duration="692000" />
-      <workItem from="1567059347170" duration="1691000" />
+      <workItem from="1567059347170" duration="2360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17687000" />
+    <option name="totallyTimeSpent" value="18356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10127932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10127932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2548807" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2548807" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,16 +289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HealthMonitor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
-          <folding>
-            <element signature="e#195#209#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -289,10 +296,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HealthMonitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="199" column="25" selection-start-line="199" selection-start-column="25" selection-end-line="199" selection-end-column="25" />
+          <folding>
+            <element signature="e#195#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        <state relative-caret-position="264">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="185" column="40" selection-start-line="185" selection-start-column="40" selection-end-line="185" selection-end-column="40" />
         </state>
       </provider>
     </entry>

@@ -197,4 +197,4 @@ if __name__ == "__main__":
                           "./web/views/index.html",
                           # fullscreen=True,
                           js_api=api)
-    webview.start(gui='cef',debug=True)
+    webview.start(gui='qt',debug=True)
