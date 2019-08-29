@@ -29,6 +29,7 @@ body {
 .slogan {
     /* 字体设置 */
     /* font-family: STXingkai; */
+    /*line-height: 10;*/
     font-size: 40px;
     color: white;
 }
@@ -36,7 +37,7 @@ body {
 .slogan p {
     margin: 0;
     margin-left: 500px;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 /* main部分 */
