@@ -1,5 +1,5 @@
 html, body {
-    height: 1200px;
+    height: 800px;
     margin: 0;
     width: 1920px;
 }
@@ -42,7 +42,7 @@ body {
 /* main部分 */
 main {
     margin: auto;
-    height: 960px;
+    height: 640px;
 }
 
 main div {
@@ -62,7 +62,7 @@ main div div {
 .rightContainer {
     width: 55%;
     /* background-color: red; */
-    margin-top: 30px;
+    margin-top: 0px;
 }
 
 .rightContainer>div {
@@ -70,8 +70,8 @@ main div div {
 }
 
 .intro {
-    margin-top: 50px;
-    margin-left: 150px;
+    margin-top: 0px;
+    margin-left: 50px;
     font-size: 30px;
 }
 
@@ -79,7 +79,7 @@ main div div {
     width: 250px;
     text-align: right;
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 0px;
     font-size: 30px;
 }
 
@@ -103,8 +103,8 @@ main div div {
     padding: 12px 30px 12px 30px;
     text-decoration: none;
 
-    margin-top: 43px;
-    margin-left: 120px;
+    margin-top: -7px;
+    margin-left: 20px;
     height: 30px;
     line-height: 30px;
     cursor: pointer;
