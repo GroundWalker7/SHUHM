@@ -1,4 +1,4 @@
-console.log(1)
+// console.log(1)
 setEchart();
 setBtn();
 
@@ -196,13 +196,18 @@ function setEchart() {
 }
 
 function setBtn() {
-    var btn1 = document.getElementById("btn1");
-    var data1 = document.getElementById("data1")
-    btn1.onclick = function() {
-        pywebview.api.getData().then(function(r) {
-            data1.innerHTML = r + "    mmol/L";
-        });
-    }
+    var btn2 = document.getElementById("btn2");
+    var data2 = document.getElementById("data2");
+    btn2.onclick = function() {
+        data2.innerHTML = "正在检测"
+        setTimeout(function() {
+            // alert("1");
+            data2.innerHTML = "265" + "&nbsp&nbsp&nbsp&nbspumol/L"
+            // pywebview.api.getData().then(function(r) {
+            // data1.innerHTML = r + "    mmol/L";
+            // });
+        }, 2 * 1000);
+    };
     // btn1.onclick = function() {
         
     //     window.data1.innerHTML = "111";
