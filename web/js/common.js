@@ -206,7 +206,7 @@ function setBtn() {
             // pywebview.api.getData().then(function(r) {
             // data1.innerHTML = r + "    mmol/L";
             // });
-        }, 2 * 1000);
+        }, 10 * 1000);
     };
     // btn1.onclick = function() {
         
