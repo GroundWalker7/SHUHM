@@ -195,6 +195,6 @@ if __name__ == "__main__":
     # webview.config.gui = "cef"
     webview.create_window("Window Title",
                           "./web/views/index.html",
-                          # fullscreen=True,
+                          fullscreen=True,
                           js_api=api)
     webview.start(gui='qt',debug=True)
